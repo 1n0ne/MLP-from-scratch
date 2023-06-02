@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Multilayer Perceptron Classifier Model from scratch</h1>
 
 This an MLP(Multilayer perceptron) implementation from scratch, the MLP model goal is to predict whether breast 
@@ -35,6 +34,5 @@ pip isntall sklearn
 
 <h1>License </h1>
 MIT
-=======
->>>>>>> e25a5b2a749ff7be983fba57719407993ff501df
+
 
